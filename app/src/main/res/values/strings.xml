@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Random</string>
+    <string name="button_submit">Submit</string>
+    <string name="number_input_max">Max Number</string>
+</resources>
