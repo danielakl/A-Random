@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="txt_answer">Svar:</string>
+    <string name="txt_bound">Maks Verdi:</string>
+    <string name="txt_correct_answer">Riktig!</string>
+    <string name="txt_wrong_answer">Feil. Riktig svar er %1$d</string>
+    <string name="txt_multiply">Multipliser</string>
+    <string name="txt_addition">Adder</string>
+</resources>
